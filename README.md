@@ -44,6 +44,7 @@ jotly/
 ├── .gitignore
 └── README.md
 
+---
 
 ## 🧑‍💻 Local Development
 
