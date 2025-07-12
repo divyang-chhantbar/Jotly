@@ -29,18 +29,21 @@ Jotly is a full-stack blogging application built with the MERN stack (MongoDB, E
 ---
 
 ## 🧱 Folder Structure
+
+```bash
 jotly/
-├── backend/ # Express.js API with MongoDB
-│ ├── controllers/
-│ ├── models/
-│ ├── routes/
-│ └── ...
-├── frontend/ # React + Vite based UI
-│ ├── pages/
-│ ├── components/
-│ └── ...
+├── backend/         # Express.js API with MongoDB
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   └── ...
+├── frontend/        # React + Vite based UI
+│   ├── pages/
+│   ├── components/
+│   └── ...
 ├── .gitignore
 └── README.md
+
 
 ## 🧑‍💻 Local Development
 
