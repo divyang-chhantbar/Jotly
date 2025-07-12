@@ -58,3 +58,41 @@ jotly/
 ```bash
 git clone https://github.com/divyang-chhantbar/Jotly.git
 cd Jotly
+```
+
+### 2. Backend Setup
+
+```bash
+cd backend
+npm install
+```
+- Create a .env file:
+```bash
+  PORT=8000
+  MONGO_URI=your_mongodb_connection_string
+  JWT_SECRET=your_jwt_secret_key
+```
+- Start backend server:
+```bash
+npm run dev
+```
+### 3. Frontend Setup
+
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
+
+### 🔗 Connect
+
+Built with ❤️ by Divyang Chhantbar
+---
+
+Let me know if you'd like to:
+- Add preview images / demo video
+- Separate README files for `backend/` and `frontend/`
+- Add contribution guidelines or CI badge
+
+I can update accordingly!
+  
